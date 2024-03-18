@@ -128,4 +128,5 @@ In the above commands, change the model name with the desired models from the fo
                  and Micorek, Jakub and Kozinski, Mateusz and Kuhene, Hilde and Possegger, Horst},
     journal   = {ArXiv},
     title     = {{Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs}},
-    year      = {2023}}
+    year      = {2023}
+    }
