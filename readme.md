@@ -1,5 +1,8 @@
-Official codebase for our paper: **Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**.
-This repository contains the code for all the experiments (for 20 datasets) conducted in our paper.
+[//]: # (Official codebase for our paper: **Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**.)
+
+[//]: # (This repository contains the code for all the experiments &#40;for 20 datasets&#41; conducted in our paper.)
+
+# Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs
 
 In this paper, we present Meta-Prompting for Visual Recognition (MPVR), a method to effectively take humans out of the loop and completely automate the prompt generation process for zero-shot 
 recognition. Taking as input only
