@@ -51,7 +51,7 @@ datasets in the `CoOp` codebase. For convenience, we provide the download links 
 ## 2.5M Category-Level VLM Prompts
 
 Since the paper is currently under review at a conference, we only provide limited access to the VLM prompts used in our paper.
-To gain access, please write an email with the subject **"Request for VLM Prompts"** to the first author of the paper:
+To gain access, please write an email with the subject **"Request for VLM Prompts"** to M. Jehanzeb Mirza:
 
 - Email: [muhammad.mirza@icg.tugraz.at](muhammad.mirza@icg.tugraz.at)
 
@@ -120,3 +120,12 @@ In the above commands, change the model name with the desired models from the fo
 - `metaclip_b32` (MetaCLIP)
 - `metaclip_b16` (MetaCLIP)
 - `metaclip_l14` (MetaCLIP)
+
+### To cite us: 
+```bibtex
+@article{mirza2023mpvr,
+    author    = {Mirza, M. Jehanzeb and Karlinsky, Leonid and Lin, Wei and Doveh, Sivan and 
+                 and Micorek, Jakub and Kozinski, Mateusz and Kuhene, Hilde and Possegger, Horst},
+    journal     = {ArXiv},
+    title = {{Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs}},
+    year      = {2023}}
