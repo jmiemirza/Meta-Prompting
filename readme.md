@@ -126,6 +126,6 @@ In the above commands, change the model name with the desired models from the fo
 @article{mirza2023mpvr,
     author    = {Mirza, M. Jehanzeb and Karlinsky, Leonid and Lin, Wei and Doveh, Sivan and 
                  and Micorek, Jakub and Kozinski, Mateusz and Kuhene, Hilde and Possegger, Horst},
-    journal     = {ArXiv},
-    title = {{Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs}},
+    journal   = {ArXiv},
+    title     = {{Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs}},
     year      = {2023}}
