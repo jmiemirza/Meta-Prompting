@@ -4,7 +4,7 @@ from imagenet_prompts import cifar10_classes
 from tqdm import tqdm
 from pathlib import Path
 
-openai.api_key = "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" # only for eccv
+openai.api_key = "" # only for eccv
 
 all_json_dict = {}
 # all_responses = {}
