@@ -4,10 +4,9 @@ from imagenet_prompts import cifar10_classes
 from tqdm import tqdm
 from pathlib import Path
 
-openai.api_key = "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" # only for eccv
+openai.api_key = ""
 
 all_json_dict = {}
-# all_responses = {}
 root_folder = 'tap'
 if not Path(root_folder).is_dir():
     raise ValueError("Folder does not exist")
@@ -15,14 +14,7 @@ if not Path(root_folder).is_dir():
 
 
 vowel_list = ['A', 'E', 'I', 'O', 'U']
-# category_list_all = {
-#     'CUBS200': cubs}
-# with open('tap/CUBS200.json') as f:
-#     data = json.load(f)
-#
-# classes_already_done = list(data.keys())
-#
-# cubs = [x for x in cubs if x not in classes_already_done]
+
 
 category_list_all = {
     'CIFAR10_local': cifar10_classes}

@@ -4,7 +4,7 @@ from imagenet_prompts import k400
 from tqdm import tqdm
 from pathlib import Path
 
-openai.api_key = "" # only for eccv
+openai.api_key = ""
 
 all_json_dict = {}
 all_responses = {}

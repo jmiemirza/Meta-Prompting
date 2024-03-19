@@ -4,7 +4,7 @@ from imagenet_prompts import places365
 from tqdm import tqdm
 from pathlib import Path
 
-openai.api_key = "" # only for eccv
+openai.api_key = ""
 
 places365 = [x.replace('_', ' ') for x in places365]
 

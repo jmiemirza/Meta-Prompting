@@ -4,8 +4,7 @@ from imagenet_prompts import oxford_pets
 from tqdm import tqdm
 from pathlib import Path
 
-openai.api_key = "" # only for eccv
-
+openai.api_key = ""
 all_json_dict = {}
 root_folder = 'mpvr'
 if not Path(root_folder).is_dir():
