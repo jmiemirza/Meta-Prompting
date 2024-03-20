@@ -19,7 +19,7 @@ datasets) leveraging GPT and Mixtral LLMs, respectively.
 
 Our code is built upon the official codebase of the [CoOp](https://github.dev/KaiyangZhou/CoOp).
 
-As a first step, install `dassl` library (under `MPVR/`) in your environment by following the instructions [here](https://github.com/KaiyangZhou/Dassl.pytorch#installation).
+As a first step, install `dassl` library (under `Meta-Prompting/`) in your environment by following the instructions [here](https://github.com/KaiyangZhou/Dassl.pytorch#installation).
 
 To further install all other dependencies, please run the following command, after having your environment activated:
 
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Datasets
 
-Under `MPVR/` first make an empty data folder: 
+Under `Meta-Prompting/` first make an empty data folder: 
 
 ```
 mkdir data
@@ -51,15 +51,15 @@ datasets in the `CoOp` codebase. For convenience, we provide the download links 
 ## 2.5M Category-Level VLM Prompts
 
 Since the paper is currently under review at a conference, we only provide limited access to the VLM prompts used in our paper.
-To gain access, please write an email with the subject **"Request for VLM Prompts"** to M. Jehanzeb Mirza:
+To gain access, please write an email with the subject **"MPVR VLM Prompts"** to M. Jehanzeb Mirza:
 
 - Email: [muhammad.mirza@icg.tugraz.at](muhammad.mirza@icg.tugraz.at)
 
 
 
-After the download, please `unzip` the files and place them in the `MPVR/descriptions` directory. This is required to run the MPVR experiments.
+After the download, please `unzip` the files and place them in the `Meta-Prompting/descriptions` directory. This is required to run the MPVR experiments.
 To generate the VLM prompts yourself for the datasets, please run the files for the individual dataset files present in the 
-`MPVR/generate` directory.
+`Meta-Prompting/generate` directory.
 
 
 
