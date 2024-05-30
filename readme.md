@@ -53,7 +53,7 @@ datasets in the `CoOp` codebase. For convenience, we provide the download links 
 Since the paper is currently under review at a conference, we only provide limited access to the VLM prompts used in our paper.
 To gain access, please write an email with the subject **"MPVR VLM Prompts"** to M. Jehanzeb Mirza:
 
-- Email: [jehanzeb95@gmail.com](jehanzeb95@gmail.com)
+- Email: [jehanzeb95@gmail.com](mailto:jehanzeb95@gmail.com)
 
 
 
