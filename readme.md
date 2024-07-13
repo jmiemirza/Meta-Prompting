@@ -129,7 +129,7 @@ In the above commands, change the model name with the desired models from the fo
 @inproceedings{mirza2024mpvr,
     author    = {Mirza, M. Jehanzeb and Karlinsky, Leonid and Lin, Wei and Doveh, Sivan and 
                  and Micorek, Jakub and Kozinski, Mateusz and Kuhene, Hilde and Possegger, Horst},
-    booktitle = {Proceedings of the European Conference for Computer Vision (ECCV)},
+    booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
     title     = {{Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs}},
     year      = {2024}
     }
