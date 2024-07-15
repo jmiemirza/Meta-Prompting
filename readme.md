@@ -53,14 +53,15 @@ datasets in the `CoOp` codebase. For convenience, we provide the download links 
 
 ## 2.5M Category-Level VLM Prompts
 
-Since the paper is currently under review at a conference, we only provide limited access to the VLM prompts used in our paper.
+<!-- Since the paper is currently under review at a conference, we only provide limited access to the VLM prompts used in our paper.
 To gain access, please write an email with the subject **"MPVR VLM Prompts"** to M. Jehanzeb Mirza:
 
-- Email: [jehanzeb95@gmail.com](mailto:jehanzeb95@gmail.com)
+- Email: [jehanzeb95@gmail.com](mailto:jehanzeb95@gmail.com) -->
 
 
 
-After the download, please `unzip` the files and place them in the `Meta-Prompting/descriptions` directory. This is required to run the MPVR experiments.
+The category-level 2.5M VLM prompts for 20 datasets are provided in the `Meta-Prompting/descriptions` directory. 
+This is required to run the MPVR experiments.
 To generate the VLM prompts yourself for the datasets, please run the files for the individual dataset files present in the 
 `Meta-Prompting/generate` directory.
 
