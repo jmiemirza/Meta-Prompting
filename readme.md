@@ -61,7 +61,6 @@ To gain access, please write an email with the subject **"MPVR VLM Prompts"** to
 
 
 The category-level 2.5M VLM prompts for 20 datasets are provided in the `Meta-Prompting/descriptions` directory. 
-This is required to run the MPVR experiments.
 To generate the VLM prompts yourself for the datasets, please run the files for the individual dataset files present in the 
 `Meta-Prompting/generate` directory.
 
